@@ -1,1 +1,1 @@
-# Full-Stack-Developer-Case
+# Full-Stack Developer Case: ChatGPT Client
